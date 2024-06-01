@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3tared&label=Profile%20views&color=0e75b6&style=flat" alt="3tared" /> </p>
 
-- 🌱 I’m currently learning **Next Js 14**
+- 🌱 I’m currently learning **Next Js 15**
 
 - 👨‍💻 All of my projects are available at [mohamedtarek.info](mohamedtarek.info)
 
