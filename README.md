@@ -1,15 +1,15 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM)
 <h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
-<h3 align="center">A Junior Front-End Engineer From Egypt!</h3>
+<h3 align="center">Front-End Engineer From Egypt 🇪🇬</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3tared&label=Profile%20views&color=0e75b6&style=flat" alt="3tared" /> </p>
 
-- 🌱 I’m currently learning **Next Js 15**
+- 🌱 I’m currently working on **Lava Cafe & Restaurant**
 
-- 👨‍💻 All of my projects are available at [mohamedtarek.info](mohamedtarek.info)
+- 👨‍💻 All of my projects are available at [mohamedtarek.site](mohamedtarek.site)
 
-- 💬 Ask me about **React Js**
+- 💬 Ask me about **Next Js**
 
 - 📫 How to reach me **mohamed2011305977@gmail.com**
 
