@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **Lava Cafe & Restaurant**
 
-- 👨‍💻 All of my projects are available at [mohamedtarek.site](mohamedtarek.site)
+- 👨‍💻 All of my projects are available at [mohamedtarekk.dev](mohamedtarekk.dev)
 
 - 💬 Ask me about **Next Js**
 
