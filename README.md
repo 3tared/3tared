@@ -1,32 +1,262 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM)
-<h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
-<h3 align="center">Front-End Engineer From Egypt 🇪🇬</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3tared&label=Profile%20views&color=0e75b6&style=flat" alt="3tared" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0369a1&height=230&section=header&text=Mohamed%20Tarek&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Web%20Applications&descAlignY=59&descSize=19&animation=fadeIn" alt="Mohamed Tarek — Software Engineer" />
 
-- 🌱 I’m currently working on **Lava Cafe & Restaurant**
+### Building reliable, scalable, and product-focused web applications.
 
-- 👨‍💻 All of my projects are available at [mohamedtarekk.dev](mohamedtarekk.dev)
-
-- 💬 Ask me about **Next Js**
-
-- 📫 How to reach me **mohamed2011305977@gmail.com**
-
-- ⚡ Fun fact **I Love Video Games**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-tarek-2a8759248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-tarek-2a8759248/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/3taredtv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/3taredtv/" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamed_tarekk21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed-tarekk21" height="30" width="40" /></a>
+<p>
+  <a href="https://mohamedtarekk.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-tarek-2a8759248/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohamed2011305977@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3tared&show_icons=true&locale=en&layout=compact" alt="3tared" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3tared&show_icons=true&locale=en" alt="3tared" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3tared&" alt="3tared" /></p>
+I am a **Software Engineer based in Cairo, Egypt**, focused on building modern, production-ready web applications.
+
+My work spans the full product engineering lifecycle—from translating business requirements into intuitive user experiences to designing application architecture, authentication systems, database models, APIs, testing strategies, and deployment workflows.
+
+I care about writing maintainable software, making thoughtful technical decisions, and building products that are not only visually polished but also reliable, scalable, secure, and easy to evolve.
+
+* Building full-stack web applications with **Next.js and TypeScript**
+* Designing scalable application architecture and reusable systems
+* Creating accessible, responsive, and high-quality user experiences
+* Working with authentication, multi-tenancy, permissions, and complex business workflows
+* Developing type-safe backend services and database-driven applications
+* Improving software quality through testing, validation, and structured engineering processes
+
+---
+
+## Current Focus
+
+I am currently focused on building and evolving:
+
+* **Multi-tenant SaaS applications**
+* **E-commerce and order management platforms**
+* **Business dashboards and internal systems**
+* **Bilingual Arabic and English web experiences**
+* **Secure authentication and role-based access systems**
+* **Production-grade frontend architecture**
+
+---
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### TechnoHealth CRM
+
+A multi-tenant sales CRM SaaS platform designed around secure tenant isolation, workspace provisioning, role-based access control, auditability, and reliable business workflows.
+
+**Engineering areas**
+
+* Multi-tenant architecture
+* Authentication and authorization
+* PostgreSQL data modeling
+* Transactional workflows
+* Idempotency and concurrency handling
+* Arabic and English localization
+* Automated testing and quality gates
+
+**Stack**
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Better Auth` `next-intl` `Vitest` `Playwright`
+
+</td>
+<td width="50%" valign="top">
+
+### Yehia Cosmetics
+
+A bilingual cosmetics commerce platform covering product discovery, product details, cart, checkout, customer accounts, orders, media management, and administrative workflows.
+
+**Engineering areas**
+
+* E-commerce architecture
+* Product and category management
+* Cart and checkout flows
+* Customer authentication
+* Order lifecycle management
+* Responsive bilingual UI
+* Dashboard and content management
+
+**Stack**
+
+`Next.js` `TypeScript` `React` `PostgreSQL` `Prisma` `UploadThing` `Tailwind CSS`
+
+<br />
+
+<a href="https://github.com/3tared/yehia-cosmetics">
+  <img src="https://img.shields.io/badge/View%20Repository-111827?style=flat-square&logo=github&logoColor=white" alt="Yehia Cosmetics repository" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Lava Cafe & Restaurant
+
+A modern digital experience for a hospitality business, designed to present the brand, menu, events, gallery, offers, and customer-facing information through a polished responsive interface.
+
+**Engineering areas**
+
+* Brand-focused frontend development
+* Responsive interface design
+* Menu and event presentation
+* Content architecture
+* Interactive UI and animations
+* Performance and usability
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion` `shadcn/ui`
+
+</td>
+<td width="50%" valign="top">
+
+### Additional Projects
+
+My broader project experience includes:
+
+* Social and content-driven applications
+* Automotive discovery platforms
+* Cryptocurrency dashboards
+* AI-powered summarization tools
+* Animated portfolio experiences
+* Authentication and media upload systems
+* Administrative dashboards
+
+<br />
+
+<a href="https://mohamedtarekk.dev">
+  <img src="https://img.shields.io/badge/Explore%20My%20Work-0369A1?style=flat-square&logo=vercel&logoColor=white" alt="Explore my work" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technology Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" alt="TypeScript, JavaScript, HTML and CSS" />
+</p>
+
+### Frontend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,redux" alt="React, Next.js, Tailwind CSS, Sass and Redux" />
+</p>
+
+`React` · `Next.js` · `Tailwind CSS` · `shadcn/ui` · `Framer Motion` · `TanStack Query` · `React Hook Form` · `Redux` · `SCSS`
+
+### Backend, Data and Application Architecture
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,mongodb" alt="Node.js, PostgreSQL, Prisma and MongoDB" />
+</p>
+
+`Node.js` · `PostgreSQL` · `Prisma` · `MongoDB` · `Better Auth` · `Zod` · `REST APIs` · `Authentication` · `RBAC` · `Multi-Tenancy`
+
+### Testing, Infrastructure and Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode" alt="Git, GitHub, Docker, Vercel, Figma and Visual Studio Code" />
+</p>
+
+`Git` · `GitHub Actions` · `Vitest` · `Playwright` · `Docker` · `Vercel` · `Sentry` · `Figma`
+
+---
+
+## How I Approach Engineering
+
+```text
+Understand the problem
+        ↓
+Model the domain and business rules
+        ↓
+Design a maintainable architecture
+        ↓
+Build an accessible and polished experience
+        ↓
+Validate with types, tests, and real workflows
+        ↓
+Ship, observe, improve
+```
+
+I believe strong software engineering is not only about choosing the latest technologies. It is about understanding the problem clearly, managing complexity, protecting data integrity, and creating systems that other engineers can confidently maintain.
+
+---
+
+## GitHub Overview
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=3tared&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github" alt="Mohamed Tarek GitHub statistics" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3tared&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&langs_count=8" alt="Mohamed Tarek most used languages" />
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=3tared&bg_color=0d1117&color=cbd5e1&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Mohamed Tarek contribution activity graph" />
+
+</div>
+
+---
+
+## Professional Values
+
+* **Product thinking:** Technology should solve a real user or business problem.
+* **Engineering quality:** Maintainability, correctness, and clarity matter.
+* **Ownership:** I care about the entire result, not only the code assigned to me.
+* **Continuous improvement:** Every project is an opportunity to improve the system and the process.
+* **User experience:** Reliable software should also feel intuitive and polished.
+
+---
+
+## Let’s Connect
+
+I am always interested in meaningful software projects, engineering discussions, and opportunities to build high-quality web products.
+
+<p>
+  <a href="mailto:mohamed2011305977@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohamed2011305977%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Mohamed Tarek" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-tarek-2a8759248/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Tarek-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Mohamed Tarek on LinkedIn" />
+  </a>
+  <a href="https://mohamedtarekk.dev">
+    <img src="https://img.shields.io/badge/Portfolio-mohamedtarekk.dev-111827?style=flat-square&logo=vercel&logoColor=white" alt="Mohamed Tarek portfolio" />
+  </a>
+</p>
+
+<div align="center">
+
+<br />
+
+**Engineering thoughtful digital products, one decision at a time.**
+
+<img src="https://komarev.com/ghpvc/?username=3tared&label=Profile%20Views&color=0369a1&style=flat-square" alt="Profile views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0f172a,100:020617&height=120&section=footer" alt="" />
+
+</div>
